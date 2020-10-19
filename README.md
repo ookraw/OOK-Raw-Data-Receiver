@@ -3,17 +3,17 @@ RFM69 OOK Raw Data Receiver
 
 Designed and coded by Felix Baessler, felix.baessler@gmail.com
 
-The project addresses the problem of: 
- 	Interoperability / Interconnectivity, Compatibility, Legacy
+The project addresses the problem of: <br/>
+&nbsp; &nbsp; &nbsp;    **->** &nbsp; Interoperability / Interconnectivity, Compatibility, Legacy &nbsp; **<-**  <br/>
 in smart home automation and IoT applications.
 
 ### Features:
-- **Universal Receiver** 
-  of data sent by a priori unknown types of devices
-  -> no assumptions are required for: sync, preamble, delimiter, packet, protocol)
-- **Robust Reception** 
+- **Universal Receiver** <br/>
+  of data sent by a priori unknown types of devices <br/>
+  -> no assumptions are required for: sync, preamble, delimiter, packet, protocol
+- **Robust Reception** <br/>
   featuring error correction of spikes, drops and outliers
-- **Long Range / High Sensitivity** 
+- **Long Range / High Sensitivity** <br/>
   with low reception threshold of ≈18 dBm
 
 ### LICENSE
@@ -41,8 +41,9 @@ This repository contains all that is needed to setup your Arduino workspace:
 ### Required Hardware
 - MCU:   Arduino compatible mini pro 3.3V (MEGA328P)
 - Radio: Hope RFM69w
-- recommended: USB extension cable (5m) with snap-on Ferrite cores
-The Radio - MCU connections are defined in radio_lib.cpp
+- recommended: USB extension cable (5m) with snap-on Ferrite cores 
+
+The Radio - MCU connections are defined in radio_lib.cpp <br/>
 The prototype used during the development of the project can be found on  https://sites.google.com/site/rfm69arduino
 
 ### Project Presentation

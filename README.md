@@ -10,7 +10,7 @@ in smart home automation and IoT applications.
 ### Features:
 - **Universal Receiver** <br/>
   of data sent by a priori unknown types of devices <br/>
-  -> no assumptions are required for: sync, preamble, delimiter, packet, protocol
+  -> no assumptions about: sync, preamble, delimiter, packet, protocol
 - **Robust Reception** <br/>
   featuring error correction of spikes, drops and outliers
 - **Long Range / High Sensitivity** <br/>
